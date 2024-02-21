@@ -1,0 +1,16 @@
+PODS:
+  - FirstCocoapodsLibrary (0.1.0)
+
+DEPENDENCIES:
+  - FirstCocoapodsLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  FirstCocoapodsLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FirstCocoapodsLibrary: 8343a96549d456f3605ab017ed086e0310a7ca95
+
+PODFILE CHECKSUM: 75186e56129952c395914b0d3b06cefec6ecd4bb
+
+COCOAPODS: 1.12.1

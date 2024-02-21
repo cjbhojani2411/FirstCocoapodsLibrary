@@ -1,0 +1,22 @@
+{
+  "name": "FirstCocoapodsLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of FirstCocoapodsLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cjbhojani2411/FirstCocoapodsLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cjbhojani2411": "chirag.bhojani@pardypanda.com"
+  },
+  "source": {
+    "git": "https://github.com/cjbhojani2411/FirstCocoapodsLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "FirstCocoapodsLibrary/Classes/**/*"
+}
